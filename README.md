@@ -9,14 +9,9 @@ The project purpose was to convince investors that a bike shared program in NYC 
 
  The assignment required two technical analysis changes to trip duration and by creating several visuals such as line graphs and heat maps to support the proposal. As you can see in the table for Citi bike trip data the trip duration was changed to datetime format.  
 
-
-
-
 To dig deeper to convince the investors that this program was a plan that was to generate a lucrative bike sharing program, they designed several visuals with Tableau workbook. 
 
-Create the Checkout Times for Users Viz. 
-![image](https://user-images.githubusercontent.com/107796290/200091549-3450a4e4-884e-4bdc-a1a8-4d7cfcb5392f.png)
-
+Create the Checkout Times for Users Viz.
 
 
 First the data was converted to date type for trip duration data. The changes were using panda for trip duration. So the first assignment was to create a change to the trip duration to a datetime format. The next, presentation was as a visualization to explain using Tableau workbook the likelihood of using shared bike for a trip analysis of the program. This was to include the number of bike trips for all writers and genders for each hour of each day of the week. 
@@ -35,7 +30,7 @@ The next graph visualization provides a trip duration by the hour for the number
 
 ![Checkout Times by Gender ocrrection](https://user-images.githubusercontent.com/107796290/200091826-bcf42e6b-a751-439d-9416-bd6d5e98bd4e.png)
 
-
+![Checkout Times by Gender close up](https://user-images.githubusercontent.com/107796290/200091690-6f389ab2-c279-4b37-be24-09ca707d2ea7.png)
  The third visual was a heatmap of the trips by weekday per hour. the hours started from 12 am to 11pm. With the stop time projected daily seven days of the week for the trips by weekday per hour. 
  
 ![Trips per Weekday per hour](https://user-images.githubusercontent.com/107796290/200091890-b34a5409-780e-4811-a591-dab76a269bc5.png)
@@ -52,3 +47,4 @@ Overall, the citbike project was a success program as you can see in the map ind
 ![image](https://user-images.githubusercontent.com/107796290/200091609-ec848937-93aa-43e8-a9d0-fc5c0c8656f0.png)
 
 ![Checkout Times by Gender close up](https://user-images.githubusercontent.com/107796290/200091690-6f389ab2-c279-4b37-be24-09ca707d2ea7.png)
+![image](https://user-images.githubusercontent.com/107796290/200091549-3450a4e4-884e-4bdc-a1a8-4d7cfcb5392f.png)
