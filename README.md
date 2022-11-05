@@ -50,6 +50,9 @@ The next graph visualization provides a trip duration by the hour for the number
 ![Gender (weekday per hour)heatmap](https://user-images.githubusercontent.com/107796290/200091911-e40d9539-1801-4ca1-a418-4ce5b54f30f8.png)
 
  Lastly, the visual graphic heatmap user trips by gender by weekday. This was projected by usertypes such as customers and subscribers for 7 days of the week. This was also segregated by gender male, female, and unknown.
-Overall, the citbike project was a success program as you can see in the map indicated the usage of Citi bikes in NYC area based from the last visual. As well as the impressive numbers of 2million bikes being used for bike trips.
+ ![User Trips by Gender by wekday](https://user-images.githubusercontent.com/107796290/200092009-539a180a-45df-44e1-b4ef-010483d3fd68.png)
+
+ 
+Overall, the citbike project was a success program as you can see in the map indicated the usage of Citi bikes in NYC area based from the last visual. As well as the impressive numbers of approzimately two million bikes being used for bike trips.
 ![image](https://user-images.githubusercontent.com/107796290/200091609-ec848937-93aa-43e8-a9d0-fc5c0c8656f0.png)
 
