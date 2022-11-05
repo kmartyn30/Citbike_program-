@@ -14,7 +14,6 @@ To dig deeper to convince the investors that this program was a plan that was to
 Create the Checkout Times for Users Viz. 
 ![image](https://user-images.githubusercontent.com/107796290/200091549-3450a4e4-884e-4bdc-a1a8-4d7cfcb5392f.png)
 
-<img width="981" alt="image" src="https://user-images.githubusercontent.com/107796290/200091541-9cae730b-26ec-4c69-9e99-cf1b0799e3ab.png">
 
 
 First the data was converted to date type for trip duration data. The changes were using panda for trip duration. So the first assignment was to create a change to the trip duration to a datetime format. The next, presentation was as a visualization to explain using Tableau workbook the likelihood of using shared bike for a trip analysis of the program. This was to include the number of bike trips for all writers and genders for each hour of each day of the week. 
