@@ -9,7 +9,7 @@ The project purpose was to convince investors that a bike shared program in NYC 
 
  The assignment required two technical analysis changes to trip duration and by creating several visuals such as line graphs and heat maps to support the proposal. As you can see in the table for Citi bike trip data the trip duration was changed to datetime format.  
 
-![Checkout Times by Gender close up](https://user-images.githubusercontent.com/107796290/200091690-6f389ab2-c279-4b37-be24-09ca707d2ea7.png)
+
 
 
 To dig deeper to convince the investors that this program was a plan that was to generate a lucrative bike sharing program, they designed several visuals with Tableau workbook. 
@@ -51,3 +51,4 @@ The next graph visualization provides a trip duration by the hour for the number
 Overall, the citbike project was a success program as you can see in the map indicated the usage of Citi bikes in NYC area based from the last visual. As well as the impressive numbers of approzimately two million bikes being used for bike trips.
 ![image](https://user-images.githubusercontent.com/107796290/200091609-ec848937-93aa-43e8-a9d0-fc5c0c8656f0.png)
 
+![Checkout Times by Gender close up](https://user-images.githubusercontent.com/107796290/200091690-6f389ab2-c279-4b37-be24-09ca707d2ea7.png)
