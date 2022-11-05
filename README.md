@@ -26,3 +26,17 @@ Create the Checkout Times for Users Viz.
 
 
 ![image](https://user-images.githubusercontent.com/107796290/200091386-32c696ea-1aa0-4209-b205-4d490d090445.png)
+
+
+
+Overview of the analysis:
+The purpose of the NYC Citi bike analysis was to convince investors to partake in a bike-sharing program that was to be located in Des Moines. This proposal was to determine the key stakeholders. First the data was converted to date type for trip duration data. The changes were using panda for trip duration. So the first assignment was to create a change to the trip duration to a datetime format. The next, presentation was as a visualization to explain using Tableau workbook the likelihood of using shared bike for a trip analysis of the program. This was to include the number of bike trips for all writers and genders for each hour of each day of the week. 
+
+The first visual was checkout times for users. Recording the number of bikes up to 140k, with the hourly trip duration allocated by a 60-minute interval. 
+The next graph visualization provides a trip duration by the hour for the number of bikes including up to 100K for gender of all, male, female, and unknown. 
+The third visual was a heatmap of the trips by weekday per hour. the hours started from 12 am to 11pm. With the stop time projected daily seven days of the week for the trips by weekday per hour. 
+The fourth heat map consisted of user trips by gender by weekday by the hour starting at 12am to 11pm. This was sectioned by gender male, female and unknown. the count concluded up to 30,749. 
+Lastly, the visual graphic heatmap user trips by gender by weekday. This was projected by usertypes such as customers and subscribers for 7 days of the week. This was also segregated by gender male, female, and unknown.
+Overall, the citbike project was a success program as you can see in the map indicated the usage of Citi bikes in NYC area based from the last visual. As well as the impressive numbers of 2million bikes being used for bike trips.
+![image](https://user-images.githubusercontent.com/107796290/200091609-ec848937-93aa-43e8-a9d0-fc5c0c8656f0.png)
+
