@@ -22,7 +22,6 @@ First the data was converted to date type for trip duration data. The changes we
 
 
 
-![image](https://user-images.githubusercontent.com/107796290/200091386-32c696ea-1aa0-4209-b205-4d490d090445.png)
 
 
   The first visual was checkout times for users. Recording the number of bikes up to 140k, with the hourly trip duration allocated by a 60-minute interval. 
@@ -30,7 +29,7 @@ The next graph visualization provides a trip duration by the hour for the number
 
 ![Checkout Times by Gender ocrrection](https://user-images.githubusercontent.com/107796290/200091826-bcf42e6b-a751-439d-9416-bd6d5e98bd4e.png)
 
-![Checkout Times by Gender close up](https://user-images.githubusercontent.com/107796290/200091690-6f389ab2-c279-4b37-be24-09ca707d2ea7.png)
+
  The third visual was a heatmap of the trips by weekday per hour. the hours started from 12 am to 11pm. With the stop time projected daily seven days of the week for the trips by weekday per hour. 
  
 ![Trips per Weekday per hour](https://user-images.githubusercontent.com/107796290/200091890-b34a5409-780e-4811-a591-dab76a269bc5.png)
@@ -47,4 +46,6 @@ Overall, the citbike project was a success program as you can see in the map ind
 ![image](https://user-images.githubusercontent.com/107796290/200091609-ec848937-93aa-43e8-a9d0-fc5c0c8656f0.png)
 
 ![Checkout Times by Gender close up](https://user-images.githubusercontent.com/107796290/200091690-6f389ab2-c279-4b37-be24-09ca707d2ea7.png)
+
 ![image](https://user-images.githubusercontent.com/107796290/200091549-3450a4e4-884e-4bdc-a1a8-4d7cfcb5392f.png)
+![image](https://user-images.githubusercontent.com/107796290/200091386-32c696ea-1aa0-4209-b205-4d490d090445.png)
