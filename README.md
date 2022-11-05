@@ -37,7 +37,15 @@ Overview of the analysis:
 
   The first visual was checkout times for users. Recording the number of bikes up to 140k, with the hourly trip duration allocated by a 60-minute interval. 
 The next graph visualization provides a trip duration by the hour for the number of bikes including up to 100K for gender of all, male, female, and unknown. 
-The third visual was a heatmap of the trips by weekday per hour. the hours started from 12 am to 11pm. With the stop time projected daily seven days of the week for the trips by weekday per hour. 
+
+![Checkout Times by Gender ocrrection](https://user-images.githubusercontent.com/107796290/200091826-bcf42e6b-a751-439d-9416-bd6d5e98bd4e.png)
+
+
+ The third visual was a heatmap of the trips by weekday per hour. the hours started from 12 am to 11pm. With the stop time projected daily seven days of the week for the trips by weekday per hour. 
+ 
+ 
+ 
+ 
 The fourth heat map consisted of user trips by gender by weekday by the hour starting at 12am to 11pm. This was sectioned by gender male, female and unknown. the count concluded up to 30,749. 
 Lastly, the visual graphic heatmap user trips by gender by weekday. This was projected by usertypes such as customers and subscribers for 7 days of the week. This was also segregated by gender male, female, and unknown.
 Overall, the citbike project was a success program as you can see in the map indicated the usage of Citi bikes in NYC area based from the last visual. As well as the impressive numbers of 2million bikes being used for bike trips.
