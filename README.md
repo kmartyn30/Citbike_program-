@@ -9,7 +9,7 @@ The project purpose was to convince investors that a bike shared program in NYC 
 
  The assignment required two technical analysis changes to trip duration and by creating several visuals such as line graphs and heat maps to support the proposal. As you can see in the table for Citi bike trip data the trip duration was changed to datetime format.  
 
-
+![Checkout Times by Gender close up](https://user-images.githubusercontent.com/107796290/200091690-6f389ab2-c279-4b37-be24-09ca707d2ea7.png)
 
 
 To dig deeper to convince the investors that this program was a plan that was to generate a lucrative bike sharing program, they designed several visuals with Tableau workbook. 
@@ -23,9 +23,6 @@ First the data was converted to date type for trip duration data. The changes we
 
 
 ![image](https://user-images.githubusercontent.com/107796290/200091527-cc7c5c2e-b8d9-4f6f-89ab-b69dc196c5da.png)
-
-
-
 
 
 
